@@ -2,6 +2,7 @@
 
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 ![SemVer Badge](https://img.shields.io/badge/SemVer-3F4551?logo=semver&logoColor=fff&style=flat)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/molier-net/template/badge)](https://api.securityscorecards.dev/projects/github.com/molier-net/template)
 
 This repository provides a base template for git repositories with features like:
 
@@ -70,6 +71,7 @@ Add additional notes about how to deploy this on a live system.
 - [Trunk Check](https://trunk.io/products/check) - For enforcing code quality
 - [Commitlint](https://github.com/conventional-changelog/commitlint) - For enforcing the conventional commit convention
 - [ReleasePlease](https://github.com/googleapis/release-please) - For supporting the semantic versioning
+- [OpenSSF Scorecard](https://github.com/ossf/scorecard) - For helping to improve the security aspects of this repository
 
 ## Versioning
 
