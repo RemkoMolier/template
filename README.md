@@ -3,7 +3,10 @@
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 ![SemVer Badge](https://img.shields.io/badge/SemVer-3F4551?logo=semver&logoColor=fff&style=flat)
 
-This is a brief description of your project.
+This repository provides a base template for git repositories with features like:
+
+- Trunk Check based linters, formatters, static code analysis tools and spell/grammar checkers.
+- GitHub actions based enforcement of the conventional commit convention through commitlint and automated semantic versioning through Google's release-please.
 
 ## Table of Contents
 
@@ -64,8 +67,9 @@ Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
-- [Tech](link) - The main tech used
-- [Library](link) - The main libraries used
+- [Trunk Check](https://trunk.io/products/check) - For enforcing code quality
+- [Commitlint](https://github.com/conventional-changelog/commitlint) - For enforcing the conventional commit convention
+- [ReleasePlease](https://github.com/googleapis/release-please) - For supporting the semantic versioning
 
 ## Versioning
 

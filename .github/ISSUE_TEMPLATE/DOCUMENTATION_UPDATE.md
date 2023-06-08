@@ -2,6 +2,7 @@
 name: Documentation update
 about: Propose an update or addition to the project documentation
 labels: "documentation"
+title:
 ---
 
 **Describe the change you'd like**

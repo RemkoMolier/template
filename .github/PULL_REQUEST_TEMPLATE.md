@@ -1,6 +1,7 @@
 ---
 name: Pull request
 about: Contribute to our project
+title:
 ---
 
 **Related Issue**
@@ -9,7 +10,7 @@ Link to the issue if applicable.
 **Proposed Changes**
 A clear and concise description of what you propose.
 
-**Checklist**
+<!-- trunk-ignore(markdownlint/MD036) -->**Checklist**
 
 - [ ] Tests
 - [ ] Documentation
