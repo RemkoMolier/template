@@ -23,7 +23,7 @@ jobs:
         with:
           app_id: ${{ secrets.BOT_APP_ID }}
           private_key: ${{ secrets.BOT_PRIVATE_KEY }}
-      - uses: trunk-io/trunk-action/upgrade@e5f1a3f123a2440f9cd28e036495a1c1f2a20568 # v1.1.1
+      - uses: trunk-io/trunk-action/upgrade@b61eb5749343e65e59ef104575a328b59f7285df # v1.1.4
         with:
           token: ${{ steps.get_token.outputs.token }}
 
