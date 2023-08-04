@@ -23,5 +23,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
-      - uses: trunk-io/trunk-action@e5f1a3f123a2440f9cd28e036495a1c1f2a20568 # v1.1.1
+      - uses: trunk-io/trunk-action@883e222ef19201ad402ef73e58101ec8186d7d54 # v1.1.7
 
